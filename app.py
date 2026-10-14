@@ -1,1 +1,10 @@
-https://colab.research.google.com/drive/1r8UIWCrg31kYUD5wF8BRaAB1cI1RBCY_?usp=sharing
+
+import os
+import zipfile
+import urllib.request
+
+import numpy as np
+import pandas as pd
+import streamlit as st
+import matplotlib.pyplot as plt
+
